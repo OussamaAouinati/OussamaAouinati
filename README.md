@@ -16,3 +16,17 @@
 - C++
 - Git & GitHub
 - Problem Solving
+
+## 📂 Projects
+
+### 🧮 Simple Calculator
+A simple C++ calculator that performs basic arithmetic operations.
+
+### 🎓 Student Grade System
+A C++ program for entering student information and determining the final result.
+
+### 🏧 ATM System
+A simple ATM simulation with balance checking, deposits, and withdrawals.
+
+### 📚 Library System
+A beginner C++ project for managing books, borrowing, and returning books.
