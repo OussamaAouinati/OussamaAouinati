@@ -19,20 +19,16 @@
 
 ## 📂 Projects
 
-### 🧮 [Simple Calculator](./Simple-Calculator)
-A simple C++ calculator that performs basic arithmetic operations.
+### 📚 [Simple Library Management System](https://github.com/OussamaAouinat/Simple-Library-Management-System)
 
-### 🎓 [Student Grade System](./Student-Grade-System)
-A C++ program for entering student information and determining the final result.
-
-### 🏧 [ATM System](./ATM-System)
-A simple ATM simulation with balance checking, deposits, and withdrawals.
-
-### 📚 [Library System](./Library-System)
-A beginner C++ project for managing books, borrowing, and returning books.
+A beginner C++ project for managing books, including adding, displaying, borrowing, and returning books.
 
 ## 📚 Currently Learning
 
 - C++ Fundamentals
 - Problem Solving
 - Git & GitHub
+
+## 🔗 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/oussama-aouinati-805a35432)
