@@ -19,7 +19,7 @@
 
 ## 📂 Projects
 
-### 📚 https://github.com/OussamaAouinati/Simple-Library-Management-System
+### 📚 [Simple Library Management System](https://github.com/OussamaAouinati/Simple-Library-Management-System)
 
 A beginner C++ project for managing books, including adding, displaying, borrowing, and returning books.
 
