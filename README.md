@@ -19,14 +19,14 @@
 
 ## 📂 Projects
 
-### 🧮 Simple Calculator
+### 🧮 [Simple Calculator](./Simple-Calculator)
 A simple C++ calculator that performs basic arithmetic operations.
 
-### 🎓 Student Grade System
+### 🎓 [Student Grade System](./Student-Grade-System)
 A C++ program for entering student information and determining the final result.
 
-### 🏧 ATM System
+### 🏧 [ATM System](./ATM-System)
 A simple ATM simulation with balance checking, deposits, and withdrawals.
 
-### 📚 Library System
+### 📚 [Library System](./Library-System)
 A beginner C++ project for managing books, borrowing, and returning books.
