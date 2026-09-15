@@ -10,3 +10,9 @@
 - 🧠 Practicing problem solving through projects
 - 🛠️ Building small C++ projects to improve my skills
 - 🎯 My goal is to become a professional software developer
+
+- ## 🛠️ Skills
+
+- C++
+- Git & GitHub
+- Problem Solving
