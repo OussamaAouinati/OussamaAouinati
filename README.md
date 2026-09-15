@@ -30,3 +30,9 @@ A simple ATM simulation with balance checking, deposits, and withdrawals.
 
 ### 📚 [Library System](./Library-System)
 A beginner C++ project for managing books, borrowing, and returning books.
+
+## 📚 Currently Learning
+
+- C++ Fundamentals
+- Problem Solving
+- Git & GitHub
