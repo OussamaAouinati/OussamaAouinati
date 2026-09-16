@@ -11,17 +11,21 @@
 - 🛠️ Building small C++ projects to improve my skills
 - 🎯 My goal is to become a professional software developer
 
-- ## 🛠️ Skills
+## 🛠️ Skills
 
-- C++
-- Git & GitHub
-- Problem Solving
+1. C++
+2. Git & GitHub
+3. Problem Solving
 
 ## 📂 Projects
 
 ### 📚 [Simple Library Management System](https://github.com/OussamaAouinati/Simple-Library-Management-System)
 
 A beginner C++ project for managing books, including adding, displaying, borrowing, and returning books.
+
+### 🏧 [Simple ATM System](https://github.com/OussamaAouinati/ATM-System)
+
+A beginner C++ project that simulates basic ATM operations such as checking balance, depositing money, and withdrawing money.
 
 ## 📚 Currently Learning
 
